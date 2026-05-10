@@ -4,8 +4,8 @@
 
 **Öğrenci:** Furkan Fatih Çiftçi
 **Numara:** 22430070037
-**Bölüm:** Bilgisayar Mühendisliği
-**GitHub:** [github linki buraya]
+**Bölüm:** Bilişim Sistemleri ve Teknolojileri
+**GitHub:** https://github.com/SKYWALKERT1/akilli_hvac_bulanik
 **Tarih:** Mayıs 2026
 
 ---
