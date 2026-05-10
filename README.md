@@ -152,6 +152,6 @@ Bu proje eğitim amaçlıdır. Mersin Üniversitesi Bulanık Mantık dersi için
 ## 👤 Geliştirici
 
 **Furkan Fatih Çiftçi**  
-Bilgisayar Mühendisliği · Mersin Üniversitesi  
+Bilgisayar Mühendisliği · Mersin Üniversitesi  s
 🎓 Öğrenci No: 22430070037  
-🐙 GitHub: [github linki buraya]
+🐙 GitHub: https://github.com/SKYWALKERT1/akilli_hvac_bulanik
