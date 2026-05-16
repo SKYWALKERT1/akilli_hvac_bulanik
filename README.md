@@ -31,7 +31,7 @@ Bu proje, gerçek dünyadaki bir HVAC (Heating, Ventilation, Air Conditioning) s
 ### 1. Depoyu klonlayın
 
 ```bash
-git clone [github linki buraya]
+git clone https://github.com/SKYWALKERT1/akilli_hvac_bulanik.git
 cd akilli-hvac-bulanik
 ```
 
